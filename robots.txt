@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reman-1.github.io/ReManPariyar/sitemap.xml
